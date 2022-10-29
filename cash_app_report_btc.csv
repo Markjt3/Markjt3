@@ -1,0 +1,6 @@
+"Transaction ID","Date","Transaction Type","Currency","Amount","Fee","Net Amount","Asset Type","Asset Price","Asset Amount","Status","Notes","Name of sender/receiver","Account"
+"nc2csr","2021-05-13 18:07:49 EDT","Bitcoin Buy","USD","-$0.97","-$0.03","-$1","BTC","$49,414.16","0.00001963","COMPLETED","purchase of BTC 0.00001963","","Your Cash"
+"b3w52o","2021-04-03 20:15:12 EDT","Bitcoin Sale","USD","$0.96","-$0.03","$0.93","BTC","$56,804.73","0.00001690","COMPLETED","sale of BTC 0.00001690","","Your Cash"
+"jkv6h3","2021-04-03 18:05:24 EDT","Bitcoin Buy","USD","-$0.97","-$0.03","-$1","BTC","$57,396.45","0.00001690","COMPLETED","purchase of BTC 0.00001690","","Your Cash"
+"o1sto8","2021-04-02 16:27:30 EDT","Bitcoin Sale","USD","$0.97","-$0.03","$0.94","BTC","$58,752.27","0.00001651","COMPLETED","sale of BTC 0.00001651","","Your Cash"
+"9prj9a","2021-04-01 03:19:55 EDT","Bitcoin Buy","USD","-$0.97","-$0.03","-$1","BTC","$58,752.27","0.00001651","COMPLETED","purchase of BTC 0.00001651","","Your Cash"
